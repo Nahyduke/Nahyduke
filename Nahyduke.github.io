@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="styles.css" />
 body {
-background: [pick a color];
+background: [green];
 font-family: Arial, Helvetica, sans-serif;
 } h1 {
 .assign {
 display: flex;
 padding: 10px;
-margin: 10px; background: [green];
+margin: 10px; background: [grey];
 }
 .assign img {
 width: 200px; padding: 10px;
@@ -52,7 +52,7 @@ It's very important that people know that this isn't a food ordering service, it
 [We created a paper prototype to demostrate how someone would navigate our app.] </p>
 .assign {
 width: 20%;
-box-shadow: 8px 8px [pick a color];
+box-shadow: 8px 8px [black];
 display: block; /* instead of flex */ border-radius: 20px; /* set last assignment */
 }
 body {
